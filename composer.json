@@ -1,5 +1,5 @@
 {
-    "name": "sonata-project/jquery-bundle",
+    "name": "joaozica/jquery-bundle",
     "type": "symfony-bundle",
     "description": "Symfony SonatajQueryBundle",
     "keywords": ["jQuery", "sonata"],
@@ -13,7 +13,7 @@
         },
         {
             "name": "Sonata Community",
-            "homepage": "https://github.com/sonata-project/SonatajQueryBundle/contributors"
+            "homepage": "https://github.com/joaozica/SonatajQueryBundle/contributors"
         }
     ],
     "require": {
